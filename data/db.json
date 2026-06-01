@@ -1,0 +1,116 @@
+{
+  "about": {
+    "name": "Nguyễn Hữu Sơn",
+    "title": "Sinh viên Công nghệ học & Sáng tạo nội dung số",
+    "tagline": "Rèn luyện tư duy số, làm chủ công nghệ trí tuệ nhân tạo và kiến tạo sản phẩm học thuật bền vững.",
+    "bio": "Chào mừng đến với trang Portfolio cá nhân của em. Em là Nguyễn Hữu Sơn, sinh viên tích cực học tập và rèn luyện kỹ năng số chuyên sâu. Trang Web này là không gian ghi nhận hành trình học tập, lưu giữ tất cả bài tập lớn sáng tạo và là minh chứng rõ nét cho định hướng trở thành Một Chuyên Gia Giải Pháp Số chuẩn mực.",
+    "avatarUrl": "https://www.pasteboard.co/Ggd00DF4szhG.jpg",
+    "major": "Công nghệ thông tin - Định hướng Sáng tạo nội dung số và Khoa học dữ liệu",
+    "hobbies": "Nghiên cứu trí tuệ nhân tạo (AI Generative), lập trình giao diện người dùng, đọc sách khoa học kỹ thuật, chơi bóng rổ và sáng tạo video ngắn truyền thông xã hội.",
+    "learningGoals": "Thành thạo các kỹ năng số nâng cao bao gồm lập trình full-stack, phân tích & làm sạch dữ liệu lớn, làm việc nhóm đám mây an toàn, và duy trì chỉ số bảo mật cá nhân trên mạng.",
+    "portfolioGoals": "Minh chứng năng lực khoa học số đã học từ học phần bài bản, phục vụ tra cứu học tập, chia sẻ sản phẩm số trực quan tới thầy cô, bạn bè và nhà tuyển dụng.",
+    "conclusionExperience": "Hành trình xây dựng Portfolio kỹ năng số này là cơ hội đặc biệt giúp em tự phản chiếu và đúc kết năng lực thiết kế hệ thông. Việc tích hợp toàn bộ các kết quả bài tập đơn lẻ vào thành một website thống nhất đem lại cái nhìn toàn diện về kỹ năng công nghệ.",
+    "conclusionKnowledge": "Em đã làm chủ cơ sở máy tính và các cấu hình ngoại vi ngoại hạng; nắm vững kỹ thuật toán lọc thông tin; hiểu sâu sắc đạo đức và ứng dụng AI; thực hiện giao tiếp số tối ưu; thiết kế ấn phẩm đồ họa Canva, Figma, dựng phim thuyết trình nâng cao; và cam kết tuân thủ tuyệt đối an toàn bảo mật số cùng cơ chế trích dẫn APA liêm chính.",
+    "conclusionTakeaways": "Sự hài lòng cao nhất của em là kiến tạo nên một giao diện Portfolio đậm chất tối giản hình học (Geometric tech aesthetic), tốc độ tải trang cực nhanh và có hệ quản trị Admin thực thụ để cập nhật sản phẩm. Khó khăn lớn nhất ban đầu là kết cấu dữ liệu và cơ chế lưu trữ, nhưng sau khi kiên trì debug, em đã hoàn thiện dự án xuất sắc."
+  },
+  "skills": [
+    { "id": "1", "name": "Kỹ thuật Máy tính và Thiết bị rời", "category": "Phần cứng", "level": "Thành thạo" },
+    { "id": "2", "name": "Khai thác thông tin & Tìm kiếm nâng cao", "category": "Dữ liệu", "level": "Xuất sắc" },
+    { "id": "3", "name": "Trực quan hóa & Thống kê Excel", "category": "Dữ liệu", "level": "Thành thạo" },
+    { "id": "4", "name": "Trí tuệ nhân tạo (Generative AI)", "category": "Công nghệ", "level": "Nâng cao" },
+    { "id": "5", "name": "Làm việc nhóm Cloud & Trello", "category": "Cộng tác", "level": "Thành thạo" },
+    { "id": "6", "name": "Thiết kế Đồ họa đa phương tiện Canva/Figma", "category": "Sáng tạo", "level": "Xuất sắc" },
+    { "id": "7", "name": "An toàn & Liêm chính Trích dẫn APA", "category": "Học thuật", "level": "Tuyệt đối" }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Học viên xuất sắc Học phần Kỹ năng số",
+      "company": "Workspace Trường Đại học Công nghệ",
+      "period": "01/2026 - Nay",
+      "description": "Nghiên cứu sâu hệ thống 6 chuyên đề kỹ năng số cốt lõi. Đại diện nhóm triển khai thiết kế các slide bài thuyết trình khoa học và biên tập video giới thiệu an toàn không gian mạng."
+    },
+    {
+      "id": "exp-2",
+      "role": "Thành viên Ban kỹ thuật và Đồ họa sáng tạo",
+      "company": "Kênh Truyền Thông Học Sinh Sinh Viên",
+      "period": "2024 - 2025",
+      "description": "Tham gia lên ý tưởng, phác họa hình ảnh infographic tuyên truyền liêm chính học thuật và hướng dẫn sử dụng công cụ AI một cách có trách nhiệm cho học sinh, sinh viên Đại học."
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Bài tập 1 - Bài 1: Máy tính và các thiết bị ngoại vi",
+      "description": "Nghiên cứu nguyên lý phối hợp truyền tải dữ liệu của các bộ phận bên trong máy tính và cấu hình tối ưu của thiết bị ngoại vi tương thích.",
+      "githubUrl": "https://github.com",
+      "demoUrl": "https://docs.google.com/document/d/1ihPAwAAXPb4CJsSzgPctzU0tNlo6z_K9/view",
+      "tags": ["Phần cứng", "Mục tiêu 1", "Sản phẩm Báo cáo PDF"],
+      "objective": "Tìm hiểu chi tiết các thành phận cấu trúc chính của phần cứng máy tính và cách thiết bị ngoại vi (bàn phím, chuột, màn hình, phụ kiện cổng kết nối) phối hợp tối ưu hóa hiệu năng làm việc học tập.",
+      "process": "Tiến hành phân tích thực trạng máy tính học tập của bản thân thông qua Task Manager và System Information, ghi nhận thông số các dòng chuột quang học, bàn phím cơ, màn hình chống lóa IPS hiện đại, từ đó thiết lập biểu đề xuất cấu hình nâng cao lý tưởng.",
+      "productLink": "https://docs.google.com/document/d/1ihPAwAAXPb4CJsSzgPctzU0tNlo6z_K9/view",
+      "productType": "Báo cáo PDF & Sơ đồ tư duy"
+    },
+    {
+      "id": "proj-2",
+      "title": "Bài tập 2 - Bài 2: Khai thác dữ liệu và thông tin",
+      "description": "Làm chủ cú pháp tìm kiếm tài liệu thông minh chuyên sâu và tổ chức hệ dữ liệu thu thập khoa học thông qua bảng số liệu thống kê.",
+      "githubUrl": "https://github.com",
+      "demoUrl": "https://example.com/data-exploitation.xlsx",
+      "tags": ["Khai thác dữ liệu", "Mục tiêu 2", "Bảng Excel"],
+      "objective": "Sử dụng thành thạo các toán tử tìm kiếm thông minh từ Google (filetype, site, intitle) để loại bỏ rác thông tin, truy xuất đúng các ấn phẩm khoa học và thiết lập bảng chỉ số dữ liệu khoa học.",
+      "process": "Xác định chủ đề 'Chuyển đổi số trong Giáo dục học đường', dùng truy vấn nâng cao lưu trữ 20 tài liệu nghiên cứu uy tín. Sau đó thiết lập dữ liệu trong Microsoft Excel, thực hiện định dạng có điều kiện và trực quan hóa bằng biểu đồ cột xếp chồng.",
+      "productLink": "https://example.com/data-exploitation.xlsx",
+      "productType": "Bảng tính phân tích dữ liệu Excel"
+    },
+    {
+      "id": "proj-3",
+      "title": "Bài tập 2 - Bài 3: Tổng quan về trí tuệ nhân tạo",
+      "description": "Đào sâu nền móng Trí tuệ nhân tạo và những kịch bản áp dụng thực tế Generative AI có trách nhiệm đạo đức cao.",
+      "githubUrl": "https://github.com",
+      "demoUrl": "https://example.com/ai-overview.pptx",
+      "tags": ["Trí tuệ nhân tạo", "Mục tiêu 3", "Slide PowerPoint"],
+      "objective": "Nhận diện bức tranh toàn cảnh về tiến trình cách mạng AI, phân biệt các nhóm thuật toán cốt lõi, từ đó nâng tầm ứng dụng của học viên đồng thời bảo vệ chuẩn mực liêm chính chống phụ thuộc công nghệ vô ý thức.",
+      "process": "Trải nghiệm và đối chiếu năng lực hỗ trợ của ChatGPT và Google Gemini trong giải quyết các vấn đề logic toán. Viết tiểu luận phân tích rủi ro bóp méo thông tin của AI và phác thảo slide thuyết trình tương tác dạng câu hỏi trắc nghiệm.",
+      "productLink": "https://example.com/ai-overview.pptx",
+      "productType": "Slide thuyết trình AI sáng tạo và văn bản"
+    },
+    {
+      "id": "proj-4",
+      "title": "Bài tập 3 - Bài 4: Giao tiếp và hợp tác trong môi trường số",
+      "description": "Thực hiện đồ án đồng biên soạn, truyền thông trực tuyến an toàn và quản lý công cụ đám mây đa thiết bị mượt mà.",
+      "githubUrl": "https://github.com",
+      "demoUrl": "https://example.com/digital-communication-collab",
+      "tags": ["Giao tiếp số", "Mục tiêu 4", "Hợp tác Google Drive"],
+      "objective": "Trang bị kỷ luật giao tiếp trực tuyến chuyên nghiệp qua Teams/Zoom, thiết lập danh mục phân vai công việc trực tuyến và cùng hoàn thành dự án trên không gian mây dữ liệu bảo mật.",
+      "process": "Lên lịch trình Kanban trên Trello, thiết lập phiên họp nhóm Zoom có quay màn hình và tiến hành đồng biên soạn báo cáo chung trên Google Docs giúp loại bỏ xung đột phiên bản, bảo toàn dữ liệu liên tục.",
+      "productLink": "https://example.com/digital-communication-collab",
+      "productType": "Biên Bản Họp Nhóm & Cổng Tương Tác Số"
+    },
+    {
+      "id": "proj-5",
+      "title": "Bài tập 2 - Bài 5: Sáng tạo nội dung số",
+      "description": "Thiết kế truyền thông đa phương tiện trực quan có chiều sập văn hóa nghệ thuật và thuyết trình ngắn thu hút.",
+      "githubUrl": "https://github.com",
+      "demoUrl": "https://example.com/digital-creative-content.mp4",
+      "tags": ["Sáng tạo nội dung", "Mục tiêu 5", "Infographic Canva & Video thuyết trình"],
+      "objective": "Sử dụng tích hợp các phần mềm biên tập âm học và đồ họa để thiết lập tác phẩm hình ảnh sinh động (Infographic) và dựng một phim ngắn giới thiệu mục đích xây dựng Portfolio kỹ năng cá nhân.",
+      "process": "Lập kịch bản phân cảnh video, thiết kế cấu trúc bố cục màu sắc đối lập cao trên Canva phục vụ Infographic. Sử dụng micro ghi âm thu giọng và chỉnh sửa cắt ghép video tinh gọn bằng CapCut ghép nhạc bản quyền miễn phí.",
+      "productLink": "https://example.com/digital-creative-content.mp4",
+      "productType": "Video Thuyết trình Full HD & Infographic Canva"
+    },
+    {
+      "id": "proj-6",
+      "title": "Bài tập 4 - Bài 6: An toàn và liêm chính học thuật trong môi trường số",
+      "description": "Tuân thủ cơ chế tự bảo vệ dữ liệu, phòng chống mã độc trên mạng và tuyên ngôn trích nguồn chuẩn học thuật.",
+      "githubUrl": "https://github.com",
+      "demoUrl": "https://example.com/academic-integrity.pdf",
+      "tags": ["Liêm chính số", "Mục tiêu 6", "Cẩm nang hướng dẫn APA PDF"],
+      "objective": "Xây dựng tư duy tuyệt đối bảo mật, bảo vệ danh tính số trước mã độc độc hại và hiểu thấu thế nào là bản quyền, tác quyền kỹ thuật số và trích dẫn chuẩn khoa học APA tránh đạo văn.",
+      "process": "Khảo sát các rủi ro lừa đảo qua email và mã độc độc hại. Tổng hợp các nguyên lý trích dẫn tài liệu học thuật theo định dạng APA phiên bản mới nhất, tạo cẩm nang trực quan dạng bỏ túi sinh động.",
+      "productLink": "https://example.com/academic-integrity.pdf",
+      "productType": "Cẩm nang bảo mật & biểu mẫu trích dẫn APA PDF"
+    }
+  ],
+  "messages": []
+}
